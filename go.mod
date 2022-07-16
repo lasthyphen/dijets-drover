@@ -3,8 +3,8 @@ module github.com/lasthyphen/dijets-drover
 go 1.17
 
 require (
-	github.com/lasthyphen/beacongo v1.7.12
-	github.com/lasthyphen/coreth v0.8.11
+	github.com/lasthyphen/beacongo v1.7.16
+	github.com/lasthyphen/coreth v0.8.13
 	github.com/ethereum/go-ethereum v1.10.16
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.2
 	github.com/onsi/ginkgo/v2 v2.1.3
